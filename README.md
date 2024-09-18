@@ -6,6 +6,8 @@
 
 This evaluation offers important insights into customer patterns, regional distribution, and sales team performance, allowing us to make decisions based on data and adjust our strategies to optimize results.
 
+![Screenshot 2024-09-18 172133](https://github.com/user-attachments/assets/f76ecb39-7014-4201-9eb0-80730c8e8abc)
+
 ### Data Sources 
 
 The main dataset utilized for this analysis is the superstore sales file, which includes comprehensive details about every transaction conducted by the company.
